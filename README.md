@@ -16,11 +16,11 @@
 <!--RECENT:START-->
 | | repo | language | commits | last signal |
 |---|---|---|---|---|
-| 🟢 | [**comic-book-pipeline**](https://github.com/nhanvu0901/comic-book-pipeline) | Python | 644 | 1d ago |
-| 🟢 | [**cyber-learn**](https://github.com/nhanvu0901/cyber-learn) | Python | 2 | 1d ago |
-| 🟢 | [**project-agent-setup-skill**](https://github.com/nhanvu0901/project-agent-setup-skill) | Python | 1 | 4d ago |
-| 🟡 | [**book-rewrire**](https://github.com/nhanvu0901/book-rewrire) | Python | 26 | 8d ago |
-| 🟡 | [**tender**](https://github.com/nhanvu0901/tender) | TypeScript | 22 | 27d ago |
+| 🟢 | [**comic-book-pipeline**](https://github.com/nhanvu0901/comic-book-pipeline) | Python | 644 | 2d ago |
+| 🟢 | [**cyber-learn**](https://github.com/nhanvu0901/cyber-learn) | Python | 2 | 2d ago |
+| 🟢 | [**project-agent-setup-skill**](https://github.com/nhanvu0901/project-agent-setup-skill) | Python | 1 | 5d ago |
+| 🟡 | [**book-rewrire**](https://github.com/nhanvu0901/book-rewrire) | Python | 26 | 9d ago |
+| 🟡 | [**tender**](https://github.com/nhanvu0901/tender) | TypeScript | 22 | 28d ago |
 <!--RECENT:END-->
 
 <details>

@@ -379,7 +379,7 @@
 </g>
 <text class="big" x="28" y="40">NHANVU0901</text>
 <text class="hud" x="28" y="60">// repo galaxy · radius = age · size = commits</text>
-<text class="hud" x="872" y="40" text-anchor="end">sync 2026-11-07</text>
+<text class="hud" x="872" y="40" text-anchor="end">sync 2026-11-08</text>
 <text class="hud" x="28" y="514"><tspan fill="#f8fafc" font-weight="700">49</tspan> stars · <tspan fill="#f8fafc" font-weight="700">1,033</tspan> commits · <tspan fill="#f8fafc" font-weight="700">5</tspan> years in orbit · <tspan fill="#fbbf24">◉</tspan> pulsing = active this month</text>
 <circle cx="835.2" cy="56" r="4" fill="#41b883"/>
 <text class="hud" x="843.2" y="60">Vue</text>
