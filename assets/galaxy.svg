@@ -336,7 +336,7 @@
 </g>
 <g><animateMotion dur="338s" repeatCount="indefinite" path="M498.7 144.3A342.8 137.1 0 1 1 401.3 415.7A342.8 137.1 0 1 1 498.7 144.3"/>
 <circle class="pulse" r="13.6" fill="none" stroke="#3572A5" stroke-width="1.4"/>
-<circle class="st" r="25.2" fill="url(#s4)" style="animation-delay:-2.8s"/>
+<circle class="st" r="25.3" fill="url(#s4)" style="animation-delay:-2.8s"/>
 <text class="lbl" x="14.7" y="3.5">comic-book-pipeline</text>
 </g>
 <g><animateMotion dur="347.1s" repeatCount="indefinite" path="M185.4 189A348.9 139.6 0 1 1 714.6 371A348.9 139.6 0 1 1 185.4 189"/>
@@ -377,8 +377,8 @@
 </g>
 <text class="big" x="28" y="40">NHANVU0901</text>
 <text class="hud" x="28" y="60">// repo galaxy · radius = age · size = commits</text>
-<text class="hud" x="872" y="40" text-anchor="end">sync 2026-11-11</text>
-<text class="hud" x="28" y="514"><tspan fill="#f8fafc" font-weight="700">49</tspan> stars · <tspan fill="#f8fafc" font-weight="700">1,045</tspan> commits · <tspan fill="#f8fafc" font-weight="700">5</tspan> years in orbit · <tspan fill="#fbbf24">◉</tspan> pulsing = active this month</text>
+<text class="hud" x="872" y="40" text-anchor="end">sync 2026-11-12</text>
+<text class="hud" x="28" y="514"><tspan fill="#f8fafc" font-weight="700">49</tspan> stars · <tspan fill="#f8fafc" font-weight="700">1,048</tspan> commits · <tspan fill="#f8fafc" font-weight="700">5</tspan> years in orbit · <tspan fill="#fbbf24">◉</tspan> pulsing = active this month</text>
 <circle cx="835.2" cy="56" r="4" fill="#41b883"/>
 <text class="hud" x="843.2" y="60">Vue</text>
 <circle cx="747.2" cy="56" r="4" fill="#f1e05a"/>
