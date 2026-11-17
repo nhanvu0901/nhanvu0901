@@ -361,9 +361,9 @@
 <circle class="st" r="14.4" fill="url(#s8)" style="animation-delay:-0.8s"/>
 </g>
 <g><animateMotion dur="402.5s" repeatCount="indefinite" path="M233.5 152.6A385.1 154 0 1 1 666.5 407.4A385.1 154 0 1 1 233.5 152.6"/>
-<circle class="pulse" r="8" fill="none" stroke="#3572A5" stroke-width="1.4"/>
-<circle class="st" r="14.9" fill="url(#s4)" style="animation-delay:-1.8s"/>
-<text class="lbl" x="10.7" y="3.5">book-rewrire</text>
+<circle class="pulse" r="8.7" fill="none" stroke="#3572A5" stroke-width="1.4"/>
+<circle class="st" r="16.1" fill="url(#s4)" style="animation-delay:-1.8s"/>
+<text class="lbl" x="11.2" y="3.5">book-rewrire</text>
 </g>
 <g><animateMotion dur="411.9s" repeatCount="indefinite" path="M59.1 284.6A391.1 156.4 0 1 1 840.9 275.4A391.1 156.4 0 1 1 59.1 284.6"/>
 <circle class="pulse" r="3.5" fill="none" stroke="#3572A5" stroke-width="1.4"/>
@@ -377,8 +377,8 @@
 </g>
 <text class="big" x="28" y="40">NHANVU0901</text>
 <text class="hud" x="28" y="60">// repo galaxy · radius = age · size = commits</text>
-<text class="hud" x="872" y="40" text-anchor="end">sync 2026-11-16</text>
-<text class="hud" x="28" y="514"><tspan fill="#f8fafc" font-weight="700">49</tspan> stars · <tspan fill="#f8fafc" font-weight="700">1,059</tspan> commits · <tspan fill="#f8fafc" font-weight="700">5</tspan> years in orbit · <tspan fill="#fbbf24">◉</tspan> pulsing = active this month</text>
+<text class="hud" x="872" y="40" text-anchor="end">sync 2026-11-17</text>
+<text class="hud" x="28" y="514"><tspan fill="#f8fafc" font-weight="700">49</tspan> stars · <tspan fill="#f8fafc" font-weight="700">1,072</tspan> commits · <tspan fill="#f8fafc" font-weight="700">5</tspan> years in orbit · <tspan fill="#fbbf24">◉</tspan> pulsing = active this month</text>
 <circle cx="835.2" cy="56" r="4" fill="#41b883"/>
 <text class="hud" x="843.2" y="60">Vue</text>
 <circle cx="747.2" cy="56" r="4" fill="#f1e05a"/>
