@@ -17,10 +17,10 @@
 | | repo | language | commits | last signal |
 |---|---|---|---|---|
 | 🟢 | [**behind-image**](https://github.com/nhanvu0901/behind-image) | Python | 1 | today |
-| 🟢 | [**comic-book-pipeline**](https://github.com/nhanvu0901/comic-book-pipeline) | Python | 673 | today |
-| 🟢 | [**book-rewrire**](https://github.com/nhanvu0901/book-rewrire) | Python | 38 | 2d ago |
-| 🟡 | [**cyber-learn**](https://github.com/nhanvu0901/cyber-learn) | Python | 2 | 13d ago |
-| 🟡 | [**project-agent-setup-skill**](https://github.com/nhanvu0901/project-agent-setup-skill) | Python | 1 | 16d ago |
+| 🟢 | [**book-rewrire**](https://github.com/nhanvu0901/book-rewrire) | Python | 40 | today |
+| 🟢 | [**comic-book-pipeline**](https://github.com/nhanvu0901/comic-book-pipeline) | Python | 673 | 1d ago |
+| 🟡 | [**cyber-learn**](https://github.com/nhanvu0901/cyber-learn) | Python | 2 | 14d ago |
+| 🟡 | [**project-agent-setup-skill**](https://github.com/nhanvu0901/project-agent-setup-skill) | Python | 1 | 17d ago |
 <!--RECENT:END-->
 
 <details>
