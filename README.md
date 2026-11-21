@@ -16,11 +16,11 @@
 <!--RECENT:START-->
 | | repo | language | commits | last signal |
 |---|---|---|---|---|
-| 🟢 | [**behind-image**](https://github.com/nhanvu0901/behind-image) | Python | 1 | today |
-| 🟢 | [**book-rewrire**](https://github.com/nhanvu0901/book-rewrire) | Python | 40 | today |
-| 🟢 | [**comic-book-pipeline**](https://github.com/nhanvu0901/comic-book-pipeline) | Python | 673 | 1d ago |
-| 🟡 | [**cyber-learn**](https://github.com/nhanvu0901/cyber-learn) | Python | 2 | 14d ago |
-| 🟡 | [**project-agent-setup-skill**](https://github.com/nhanvu0901/project-agent-setup-skill) | Python | 1 | 17d ago |
+| 🟢 | [**behind-image**](https://github.com/nhanvu0901/behind-image) | Python | 91 | today |
+| 🟢 | [**book-rewrire**](https://github.com/nhanvu0901/book-rewrire) | Python | 40 | 1d ago |
+| 🟢 | [**comic-book-pipeline**](https://github.com/nhanvu0901/comic-book-pipeline) | Python | 673 | 2d ago |
+| 🟡 | [**cyber-learn**](https://github.com/nhanvu0901/cyber-learn) | Python | 2 | 15d ago |
+| 🟡 | [**project-agent-setup-skill**](https://github.com/nhanvu0901/project-agent-setup-skill) | Python | 1 | 18d ago |
 <!--RECENT:END-->
 
 <details>

@@ -341,7 +341,6 @@
 </g>
 <g><animateMotion dur="339.7s" repeatCount="indefinite" path="M189.2 190.3A343.9 137.6 0 1 1 710.8 369.7A343.9 137.6 0 1 1 189.2 190.3"/>
 <circle class="st" r="14.4" fill="url(#s4)" style="animation-delay:-2.9s"/>
-<text class="lbl" x="10.5" y="3.5">auto_generated_lyric</text>
 </g>
 <g><animateMotion dur="348.6s" repeatCount="indefinite" path="M115 320.5A349.9 140 0 1 1 785 239.5A349.9 140 0 1 1 115 320.5"/>
 <circle class="st" r="17.2" fill="url(#s9)" style="animation-delay:-0.5s"/>
@@ -376,14 +375,14 @@
 <text class="lbl" x="8" y="3.5">cyber-learn</text>
 </g>
 <g><animateMotion dur="421.3s" repeatCount="indefinite" path="M628.2 421.9A397 158.8 0 1 1 271.8 138.1A397 158.8 0 1 1 628.2 421.9"/>
-<circle class="pulse" r="3.5" fill="none" stroke="#3572A5" stroke-width="1.4"/>
-<circle class="st" r="6.4" fill="url(#s4)" style="animation-delay:-1.2s"/>
-<text class="lbl" x="7.5" y="3.5">behind-image</text>
+<circle class="pulse" r="10.2" fill="none" stroke="#3572A5" stroke-width="1.4"/>
+<circle class="st" r="18.9" fill="url(#s4)" style="animation-delay:-1.2s"/>
+<text class="lbl" x="12.3" y="3.5">behind-image</text>
 </g>
 <text class="big" x="28" y="40">NHANVU0901</text>
 <text class="hud" x="28" y="60">// repo galaxy · radius = age · size = commits</text>
-<text class="hud" x="872" y="40" text-anchor="end">sync 2026-11-20</text>
-<text class="hud" x="28" y="514"><tspan fill="#f8fafc" font-weight="700">50</tspan> stars · <tspan fill="#f8fafc" font-weight="700">1,077</tspan> commits · <tspan fill="#f8fafc" font-weight="700">5</tspan> years in orbit · <tspan fill="#fbbf24">◉</tspan> pulsing = active this month</text>
+<text class="hud" x="872" y="40" text-anchor="end">sync 2026-11-21</text>
+<text class="hud" x="28" y="514"><tspan fill="#f8fafc" font-weight="700">50</tspan> stars · <tspan fill="#f8fafc" font-weight="700">1,167</tspan> commits · <tspan fill="#f8fafc" font-weight="700">5</tspan> years in orbit · <tspan fill="#fbbf24">◉</tspan> pulsing = active this month</text>
 <circle cx="835.2" cy="56" r="4" fill="#41b883"/>
 <text class="hud" x="843.2" y="60">Vue</text>
 <circle cx="747.2" cy="56" r="4" fill="#f1e05a"/>
