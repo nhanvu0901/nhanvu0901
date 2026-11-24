@@ -21,7 +21,7 @@
 <text class="hud" x="28" y="30"><tspan class="blink" fill="#f472b6">●</tspan> LIVE · commit heartbeat · last 12 months</text>
 <text class="num" x="872" y="34" text-anchor="end">93</text>
 <text class="hud" x="872" y="50" text-anchor="end">best day 10-08</text>
-<text class="num" x="744" y="34" text-anchor="end">15d</text>
+<text class="num" x="744" y="34" text-anchor="end">0d</text>
 <text class="hud" x="744" y="50" text-anchor="end">current streak</text>
 <text class="num" x="616" y="34" text-anchor="end">18d</text>
 <text class="hud" x="616" y="50" text-anchor="end">longest streak</text>
